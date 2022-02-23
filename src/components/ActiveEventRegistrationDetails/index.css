@@ -1,0 +1,40 @@
+.no-active-event {
+  color: #64748b;
+  font-weight: 500;
+  font-size: 23px;
+}
+
+.closed-image {
+  width: 200px;
+  margin: 10px;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.closed-heading {
+  color: #323f4b;
+  font-size: 25px;
+  margin: 10px;
+}
+.closed-text {
+  color: #64748b;
+  margin: 10px;
+}
+
+.button {
+  border: 0px;
+  border-radius: 5px;
+  background-color: #0967d2;
+  padding: 10px;
+  width: 70%;
+  color: #ffffff;
+  font-weight: 500;
+  margin: 10px;
+}

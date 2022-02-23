@@ -1,0 +1,24 @@
+.event-item-image {
+  width: 200px;
+}
+
+.event-item-heading {
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 12px;
+}
+
+.event-item-location {
+  color: #f8fafc;
+  font-size: 10px;
+}
+
+.event-item {
+  width: 50%;
+  margin-bottom: 15px;
+}
+
+.event-button {
+  border: 0px;
+  cursor: pointer;
+}

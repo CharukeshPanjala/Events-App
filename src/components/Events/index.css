@@ -1,0 +1,37 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.bg-container {
+  display: flex;
+  flex-direction: row;
+  min-height: 100vh;
+  font-family: roboto;
+}
+
+.events-container {
+  width: 40%;
+  background-color: #3a4b63;
+  padding-left: 30px;
+}
+
+.heading {
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 23px;
+  margin-bottom: 10px;
+  margin-top: 15px;
+}
+
+.events-list {
+  display: flex;
+  list-style: none;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.registration-details-container {
+  width: 30%;
+  padding: 20px;
+}
